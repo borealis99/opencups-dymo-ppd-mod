@@ -34,8 +34,8 @@
 *cupsLanguages: "en"
 *OpenUI *PageSize/Media Size: PickOne
 *OrderDependency: 10 AnySetup *PageSize
-*DefaultPageSize: 104.39x159.43mm
-*PageSize 104.39x159.43mm/1744907 4 in x 6 in: "<</PageSize[296 452]/ImagingBBox null>>setpagedevice"
+*DefaultPageSize: 4x6
+*PageSize 4x6/1744907 4 in x 6 in: "<</PageSize[296 452]/ImagingBBox null>>setpagedevice"
 *PageSize w81h252/Address: "<</PageSize[81 252]/ImagingBBox null>>setpagedevice"
 *PageSize w101h252/Large Address: "<</PageSize[101 252]/ImagingBBox null>>setpagedevice"
 *PageSize w54h144/Return Address: "<</PageSize[54 144]/ImagingBBox null>>setpagedevice"
@@ -49,8 +49,8 @@
 *CloseUI: *PageSize
 *OpenUI *PageRegion/Media Size: PickOne
 *OrderDependency: 10 AnySetup *PageRegion
-*DefaultPageRegion: 104.39x159.43mm
-*PageRegion 104.39x159.43mm/1744907 4 in x 6 in: "<</PageSize[296 452]/ImagingBBox null>>setpagedevice"
+*DefaultPageRegion: 4x6
+*PageRegion 4x6/1744907 4 in x 6 in: "<</PageSize[296 452]/ImagingBBox null>>setpagedevice"
 *PageRegion w81h252/Address: "<</PageSize[81 252]/ImagingBBox null>>setpagedevice"
 *PageRegion w101h252/Large Address: "<</PageSize[101 252]/ImagingBBox null>>setpagedevice"
 *PageRegion w54h144/Return Address: "<</PageSize[54 144]/ImagingBBox null>>setpagedevice"
@@ -62,8 +62,8 @@
 *PageRegion w41h144/Hanging Folder: "<</PageSize[41 144]/ImagingBBox null>>setpagedevice"
 *PageRegion w153h198/3.5" Disk: "<</PageSize[153 198]/ImagingBBox null>>setpagedevice"
 *CloseUI: *PageRegion
-*DefaultImageableArea: 104.39x159.43mm
-*ImageableArea 104.39x159.43mm/1744907 4 in x 6 in: "4.08 4.08 292.08 436.08"
+*DefaultImageableArea: 4x6
+*ImageableArea 4x6/1744907 4 in x 6 in: "4.08 4.08 292.08 436.08"
 *ImageableArea w81h252/Address: "2 14.89999961853 79 237.100006103516"
 *ImageableArea w101h252/Large Address: "2 14.89999961853 99 237.100006103516"
 *ImageableArea w54h144/Return Address: "2 14.89999961853 52 129.100006103516"
@@ -74,8 +74,8 @@
 *ImageableArea w41h248/File Folder: "2 14.89999961853 39 233.100006103516"
 *ImageableArea w41h144/Hanging Folder: "2 14.89999961853 39 129.100006103516"
 *ImageableArea w153h198/3.5" Disk: "2 14.89999961853 151 183.100006103516"
-*DefaultPaperDimension: 104.39x159.43mm
-*PaperDimension 104.39x159.43mm/1744907 4 in x 6 in: "295.92 451.92"
+*DefaultPaperDimension: 4x6
+*PaperDimension 4x6/1744907 4 in x 6 in: "295.92 451.92"
 *PaperDimension w81h252/Address: "81 252"
 *PaperDimension w101h252/Large Address: "101 252"
 *PaperDimension w54h144/Return Address: "54 144"
