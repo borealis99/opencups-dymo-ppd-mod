@@ -35,7 +35,7 @@
 *OpenUI *PageSize/Media Size: PickOne
 *OrderDependency: 10 AnySetup *PageSize
 *DefaultPageSize: 104.39x159.43mm
-*PageSize `104.39x159.43mm`/1744907 4 in x 6 in: "<</PageSize[296 452]/ImagingBBox null>>setpagedevice"
+*PageSize 104.39x159.43mm/1744907 4 in x 6 in: "<</PageSize[296 452]/ImagingBBox null>>setpagedevice"
 *PageSize w81h252/Address: "<</PageSize[81 252]/ImagingBBox null>>setpagedevice"
 *PageSize w101h252/Large Address: "<</PageSize[101 252]/ImagingBBox null>>setpagedevice"
 *PageSize w54h144/Return Address: "<</PageSize[54 144]/ImagingBBox null>>setpagedevice"
